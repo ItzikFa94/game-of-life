@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ee30b85896769b9d324732a7477fde9e",
+    "revision": "b3601e90b448af0b74816b8e054ebd05",
     "url": "/game-of-life/index.html"
   },
   {
-    "revision": "3677bc3ec4968a4c5512",
+    "revision": "00427cca5c41e0e37c3c",
     "url": "/game-of-life/static/css/2.f4ccf190.chunk.css"
   },
   {
-    "revision": "12be9ff8631113d997e8",
-    "url": "/game-of-life/static/css/main.c9b36404.chunk.css"
+    "revision": "6db74c231954cac2484b",
+    "url": "/game-of-life/static/css/main.897fb9a3.chunk.css"
   },
   {
-    "revision": "3677bc3ec4968a4c5512",
-    "url": "/game-of-life/static/js/2.302f971d.chunk.js"
+    "revision": "00427cca5c41e0e37c3c",
+    "url": "/game-of-life/static/js/2.a12cd216.chunk.js"
   },
   {
     "revision": "4d47ffde3dc69784e8e23fd910817ef8",
-    "url": "/game-of-life/static/js/2.302f971d.chunk.js.LICENSE.txt"
+    "url": "/game-of-life/static/js/2.a12cd216.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "12be9ff8631113d997e8",
-    "url": "/game-of-life/static/js/main.83341d18.chunk.js"
+    "revision": "6db74c231954cac2484b",
+    "url": "/game-of-life/static/js/main.21324d40.chunk.js"
   },
   {
     "revision": "478d7f27a09593e19dbd",
